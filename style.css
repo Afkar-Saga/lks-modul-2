@@ -19,3 +19,8 @@
     width: 30px !important;
     height: 30px !important;
 }
+
+.carousel-inner {
+    width: 600px !important;
+    height: auto !important;
+}
